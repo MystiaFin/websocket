@@ -1,7 +1,7 @@
 import socket
 import sys
 
-host = 'localhost'
+host = '172.25.1.162'
 
 def rock_paper_scissors_client(port, choice):
     """Client for Rock-Paper-Scissors Game"""
