@@ -1,7 +1,7 @@
 import socket
 import sys
 
-host = 'localhost'
+host = '172.25.1.162'
 data_payload = 1024
 backlog = 2  # Two connections for Room 1 and Room 2 players
 
